@@ -28,4 +28,13 @@
     Betasheets="atom.(s_n_o_h_c).helixdata.extractor.pdb.sequence(aminoacid.k)
         Mydata="atom.(p_n_o_h_c).dna == RNA.structure.pdb(config.data.RNA == DNA
            
-    
+           Data(script.atom[s].[p].data.RNA == DNA(isAtom.html(config.(data.pdb11 == DNA)
+      Script(DNA.atom[p].{n}(script.data == DNA == RNA.blend(data.config(py).py
+      Mydata="script.atom(is(atom.dna(smiles.data[], RNA == DNA.config(py).py
+    Pyscript(local.atom(structure.RNA == DNA.html 3dblend.(script.data
+     
+
+        DNA.structure(id.script(data, fiction.html == RNA.dna(ScriptIP(data(py)
+        Localdata(DNA.structure(data, fiction == RNA.html(script.data(py).fff.aa(script.ip)
+        Confirm(data.script(structure.html fiction ==(py).data(config.(html.aa(scripter.(data?="py"
+
